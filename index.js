@@ -1,5 +1,5 @@
 // add solution here
 function theBeeatlesPLay(musicians,instuments) {
   var able = [];
-  for( i = 1; )
+  for( i = 0;  )
 }
